@@ -36,7 +36,7 @@
 		content: '';
 		width: calc(100% - 1em);
 		height: 2px;
-		background-color: rgb(250, 5, 173);
+		background-color: rgb(6, 1, 4);
 		display: block;
 		bottom: -1px;
 	}
